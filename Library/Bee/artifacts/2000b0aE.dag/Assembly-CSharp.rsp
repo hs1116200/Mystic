@@ -356,8 +356,6 @@
 "Assets/Scripts/PlayerInteraction.cs"
 "Assets/Scripts/SeedCount.cs"
 "Assets/Scripts/ThirdPersonMovement.cs"
-"Assets/Thoth/Cartoon UI Pack/Scripts/MyCursor.cs"
-"Assets/Thoth/Cartoon UI Pack/Scripts/StatsExample.cs"
 -langversion:9.0
 /deterministic
 /optimize+
